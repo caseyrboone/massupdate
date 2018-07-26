@@ -22,7 +22,7 @@ defaults: &defaults
     TZ: "/usr/share/zoneinfo/America/Los_Angeles"
     CIRCLE_TOKEN: 99ff0abdb7e7b381684da4d2068cb02bb84bb7ec
     TERMINUS_MACHINE_TOKEN: 202HXWDd86gg_J6B_BmmH4L_qQEhQnVyLDuNllxZSFBvx
-    SLACK_HOOK_URL: https://qiigo.slack.com/messages/C4WS733V4/
+    SLACK_HOOK_URL: https://hooks.slack.com/services/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
     SLACK_CHANNEL: pantheon-mass-updates
     SLACK_USERNAME: DevTeam
 
