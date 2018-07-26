@@ -1,11 +1,5 @@
 [
-	{
-		"SITE_UUID": "02854fa0-b6e4-4349-932a-8aa7d9cab884",
-		"SITE_NAME": "wp-microsite",
-		"CREATE_BACKUPS": 1,
-		"RECREATE_MULTIDEV": 1,
-		"LIVE_URL": "https://scalewp.io/"
-	},
+
 	{
 		"SITE_UUID": "f45d9975-599b-4e9f-8eca-6953a341b34c",
 		"SITE_NAME": "wp-quicksilver-demo",
@@ -21,38 +15,17 @@
 		"LIVE_URL": 0
 	},
 	{
-		"SITE_UUID": "500bf017-3dc3-4ea9-8f17-455c9ab68adc",
-		"SITE_NAME": "davidwp",
-		"CREATE_BACKUPS": 1,
-		"RECREATE_MULTIDEV": 1,
-		"LIVE_URL": 0
-	},
-	{
-		"SITE_UUID": "b29504f8-99f3-4bfe-a3f8-a65dea30472a",
-		"SITE_NAME": "pantheon-overview",
-		"CREATE_BACKUPS": 1,
-		"RECREATE_MULTIDEV": 1,
-		"LIVE_URL": 0
-	},
-	{
 		"SITE_UUID": "9d8e680f-bbc2-4da5-a6eb-9b6192c57454",
 		"SITE_NAME": "drupalcon-nashville-demo",
 		"CREATE_BACKUPS": 1,
 		"RECREATE_MULTIDEV": 1,
 		"LIVE_URL": 0
 	},
-	{
-		"SITE_UUID": "5a0a798d-d881-4f27-aa88-39c57ee3a7eb",
-		"SITE_NAME": "museo-de-arte-store",
+    	{
+		"SITE_UUID": "82e5600a-0163-420f-9202-8ff8e9b8bba0",
+		"SITE_NAME": "learn-drup8",
 		"CREATE_BACKUPS": 1,
 		"RECREATE_MULTIDEV": 1,
 		"LIVE_URL": 0
 	},
-	{
-		"SITE_UUID": "be5b6744-f822-4f2d-bf81-dcbb8565eb55",
-		"SITE_NAME": "devrel-gutes",
-		"CREATE_BACKUPS": 1,
-		"RECREATE_MULTIDEV": 1,
-		"LIVE_URL": 0
-	}
 ]
