@@ -6,5 +6,12 @@
 		"CREATE_BACKUPS": 1,
 		"RECREATE_MULTIDEV": 1,
 		"LIVE_URL": 0
+	},
+	{
+		"SITE_UUID": "a7c60173-3faa-41eb-b84c-762800fc9d0d",
+		"SITE_NAME": "ricks-reviews",
+		"CREATE_BACKUPS": 1,
+		"RECREATE_MULTIDEV": 1,
+		"LIVE_URL": 0
 	}
 ]
