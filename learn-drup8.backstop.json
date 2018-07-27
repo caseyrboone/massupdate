@@ -24,8 +24,8 @@
   "scenarios": [
     {
       "label": "/",
-      "url": "https://live-ricks-reviews.pantheonsite.io/",
-      "referenceUrl": "https://auto-update-ricks-reviews.pantheonsite.io",
+      "url": "https://live-learn-drup8.pantheonsite.io/",
+      "referenceUrl": "https://auto-update-learn-drup8.pantheonsite.io",
       "hideSelectors": [],
       "selectors": [
         "document"
@@ -36,8 +36,8 @@
     },
     {
       "label": "/hello-world/",
-      "url": "https://live-ricks-reviews.pantheonsite.io/About%20Facebook%20Advertising",
-      "referenceUrl": "https://auto-update-ricks-reviews.pantheonsite.io/About%20Facebook%20Advertising",
+      "url": "https://live-learn-drup8.pantheonsite.io/About%20Facebook%20Advertising",
+      "referenceUrl": "https://auto-update-learn-drup8.pantheonsite.io/About%20Facebook%20Advertising",
       "hideSelectors": [],
       "selectors": [
         "document"
@@ -48,8 +48,8 @@
     },
     {
       "label": "/author/ataylor/",
-      "url": "https://live-ricks-reviews.pantheonsite.io/node/3",
-      "referenceUrl": "https://auto-update-ricks-reviews.pantheonsite.io/node/3",
+      "url": "https://live-learn-drup8.pantheonsite.io/node/3",
+      "referenceUrl": "https://auto-update-learn-drup8.pantheonsite.io/node/3",
       "hideSelectors": [],
       "selectors": [
         "document"
@@ -60,8 +60,8 @@
     },
     {
       "label": "/category/uncategorized/",
-      "url": "https://live-ricks-reviews.pantheonsite.io/node/5",
-      "referenceUrl": "https://auto-update-ricks-reviews.pantheonsite.io/node/5",
+      "url": "https://live-learn-drup8.pantheonsite.io/node/5",
+      "referenceUrl": "https://auto-update-learn-drup8.pantheonsite.io/node/5",
       "hideSelectors": [],
       "selectors": [
         "document"
@@ -72,8 +72,8 @@
     },
     {
       "label": "/hello-world/?replytocom=1",
-      "url": "https://live-ricks-reviews.pantheonsite.io/node/1",
-      "referenceUrl": "https://auto-update-ricks-reviews.pantheonsite.io/node/1",
+      "url": "https://live-learn-drup8.pantheonsite.io/node/1",
+      "referenceUrl": "https://auto-update-learn-drup8.pantheonsite.io/node/1",
       "hideSelectors": [],
       "selectors": [
         "document"
