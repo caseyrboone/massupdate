@@ -1,18 +1,5 @@
 [
-	// {
-	// 	"SITE_UUID": "6a8d7840-0f5c-41e7-8eb6-999f541d51cb",
-	// 	"SITE_NAME": "solr-power",
-	// 	"CREATE_BACKUPS": 0,
-	// 	"RECREATE_MULTIDEV": 0,
-	// 	"LIVE_URL": 0
-	// },
-	// {
-	// 	"SITE_UUID": "9d8e680f-bbc2-4da5-a6eb-9b6192c57454",
-	// 	"SITE_NAME": "drupalcon-nashville-demo",
-	// 	"CREATE_BACKUPS": 1,
-	// 	"RECREATE_MULTIDEV": 1,
-	// 	"LIVE_URL": 0
-	// },
+
     {
 		"SITE_UUID": "82e5600a-0163-420f-9202-8ff8e9b8bba0",
 		"SITE_NAME": "learn-drup8",
