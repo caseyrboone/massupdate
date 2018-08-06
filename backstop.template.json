@@ -26,7 +26,13 @@
 	"label": "Default",
 	"url": "",
 	"referenceUrl": "",
-	"hideSelectors": [],
+  "hideSelectors": [],
+  "removeSelectors": [
+    "#apexchat_tab_bar_parent",
+    "#apexchat_invitation_container_wrapper",
+    ".flexslideer",
+    ".cta"
+  ],
 	"selectors": [
 	"document"
 	],
