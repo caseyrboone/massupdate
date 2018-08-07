@@ -26,115 +26,94 @@
       "label": "/",
       "url": "https://live-360-painting-casey-vars.pantheonsite.io/",
       "referenceUrl": "https://auto-update-ricks-reviews.pantheonsite.io",
-      //"hideSelectors": [],
       "selectors": [
         "document"
       ],
       "readyEvent": null,
-      //"delay": 1500,
       "misMatchThreshold": 0.1
     },
     {
       "label": "/residential/residential-exterior-painting/",
       "url": "https://live-360-painting-casey-vars.pantheonsite.io/about/our-work/",
       "referenceUrl": "https://auto-update-360-painting-casey-vars.pantheonsite.io/about/our-work/",
-      //"hideSelectors": [],
       "selectors": [
         "document"
       ],
       "readyEvent": null,
-     // "delay": 1500,
       "misMatchThreshold": 0.1
     },
     {
       "label": "/residential/residential-exterior-painting/",
       "url": "https://live-360-painting-casey-vars.pantheonsite.io/residential/residential-exterior-painting/",
       "referenceUrl": "https://auto-update-360-painting-casey-vars.pantheonsite.io/residential/residential-exterior-painting/",
-      //"hideSelectors": [],
       "selectors": [
         "document"
       ],
       "readyEvent": null,
-     // "delay": 1500,
       "misMatchThreshold": 0.1
     },
     {
       "label": "/commercial-painting/",
       "url": "https://live-360-painting-casey-vars.pantheonsite.io/commercial-painting/",
       "referenceUrl": "https://auto-update-360-painting-casey-vars.pantheonsite.io/commercial-painting/",
-      //"hideSelectors": [],
       "selectors": [
         "document"
       ],
       "readyEvent": null,
-     // "delay": 1500,
       "misMatchThreshold": 0.1
     },
     {
       "label": "/blog/the-multicolored-house/",
       "url": "https://live-360-painting-casey-vars.pantheonsite.io/blog/the-multicolored-house/",
       "referenceUrl": "https://auto-update-360-painting-casey-vars.pantheonsite.io/blog/the-multicolored-house/",
-      //"hideSelectors": [],
       "selectors": [
         "document"
       ],
       "readyEvent": null,
-     // "delay": 1500,
       "misMatchThreshold": 0.1
     },
     {
       "label": "/contact-us/",
       "url": "https://live-360-painting-casey-vars.pantheonsite.io/contact-us/",
       "referenceUrl": "https://auto-update-360-painting-casey-vars.pantheonsite.io/contact-us/",
-      //"hideSelectors": [],
       "selectors": [
         "document"
       ],
       "readyEvent": null,
-     // "delay": 1500,
       "misMatchThreshold": 0.1
     },
     {
       "label": "/hello-world/?replytocom=1",
       "url": "https://live-360-painting-casey-vars.pantheonsite.io/locations/",
       "referenceUrl": "https://auto-update-360-painting-casey-vars.pantheonsite.io/locations/",
-      //"hideSelectors": [],
       "selectors": [
         "document"
       ],
       "readyEvent": null,
-     // "delay": 1500,
       "misMatchThreshold": 0.1
     },
     {
       "label": "/austin/",
       "url": "https://live-360-painting-casey-vars.pantheonsite.io/austin/",
       "referenceUrl": "https://auto-update-360-painting-casey-vars.pantheonsite.io/locations/",
-      //"hideSelectors": [],
       "selectors": [
         "document"
       ],
       "readyEvent": null,
-     // "delay": 1500,
       "misMatchThreshold": 0.1
     },
     {
       "label": "/charleston/",
       "url": "https://live-360-painting-casey-vars.pantheonsite.io/charleston/",
       "referenceUrl": "https://auto-update-360-painting-casey-vars.pantheonsite.io/locations/",
-      //"hideSelectors": [],
       "selectors": [
         "document"
       ],
       "readyEvent": null,
-     // "delay": 1500,
       "misMatchThreshold": 0.1
     }
   ],
   "defaultScenario": {
-    // "label": "Default",
-    // "url": "",
-    // "referenceUrl": "",
     "hideSelectors": [
       "#apexchat_tab_bar_parent",
       "#apexchat_invitation_container_wrapper",
