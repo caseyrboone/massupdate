@@ -12,7 +12,7 @@ defaults: &defaults
     #
     # TERMINUS_SITE:  Name of the Pantheon site to run tests on, e.g. my_site
     TERMINUS_TOKEN: YIShgNuyvKDppY0p8X6ipeFY5WcZclPc6VVTMASagOniu
-    GITHUB_TOKEN:   0d2e6c2fe55077cdd1d85c6473e9195bb60c6bd2
+   #GITHUB_TOKEN:   0d2e6c2fe55077cdd1d85c6473e9195bb60c6bd2
     GIT_EMAIL: DevTeam@qiigo.com
     #
     # TEST_SITE_NAME: The name of the test site to provide when installing.
@@ -20,7 +20,7 @@ defaults: &defaults
     # ADMIN_EMAIL:    The email address to give the admin when installing.
     #=========================================================================
     TZ: "/usr/share/zoneinfo/America/Los_Angeles"
-    CIRCLE_TOKEN: 99ff0abdb7e7b381684da4d2068cb02bb84bb7ec
+    CIRCLE_TOKEN: e7c5a10a90440ad34d48154c1570375efcc58b26
     TERMINUS_MACHINE_TOKEN: 202HXWDd86gg_J6B_BmmH4L_qQEhQnVyLDuNllxZSFBvx
     SLACK_HOOK_URL: https://hooks.slack.com/services/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
     SLACK_CHANNEL: pantheon-mass-updates
