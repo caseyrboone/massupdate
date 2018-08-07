@@ -13,7 +13,7 @@ defaults: &defaults
     # TERMINUS_SITE:  Name of the Pantheon site to run tests on, e.g. my_site
     TERMINUS_TOKEN: YIShgNuyvKDppY0p8X6ipeFY5WcZclPc6VVTMASagOniu
    #GITHUB_TOKEN:   0d2e6c2fe55077cdd1d85c6473e9195bb60c6bd2
-    GIT_EMAIL: DevTeam@qiigo.com
+    GIT_EMAIL: Qiigo_Development@bitbucket.org
     #
     # TEST_SITE_NAME: The name of the test site to provide when installing.
     # ADMIN_PASSWORD: The admin password to use when installing.
