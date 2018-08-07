@@ -83,6 +83,24 @@
       "misMatchThreshold": 0.1
     }
   ],
+  "defaultScenario": {
+    "label": "Default",
+    "url": "",
+    "referenceUrl": "",
+    "hideSelectors": [],
+    "removeSelectors": [
+      "#apexchat_tab_bar_parent",
+      "#apexchat_invitation_container_wrapper",
+      ".flexslideer",
+      ".cta"
+    ],
+    "selectors": [
+    "document"
+    ],
+    "readyEvent": null,
+    "delay": 1500,
+    "misMatchThreshold": 0.1
+  },
   "paths": {
     "bitmaps_reference": "backstop_data/bitmaps_reference",
     "bitmaps_test": "backstop_data/bitmaps_test",
