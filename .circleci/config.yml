@@ -39,7 +39,7 @@ defaults: &defaults
     
     TERM: dumb
 
-version: 2   
+version: 2
 jobs:
     build:
         <<: *defaults
@@ -159,13 +159,13 @@ jobs:
 
 workflows:
   version: 2
-    commit-workflow:
+  commit-workflow:
     jobs:
       - build
   update_and_test:
     triggers:
       - schedule:
-          cron: "0 0 * * *"
+          cron: "5 4 * * *"
           filters:
             branches:
               only:
