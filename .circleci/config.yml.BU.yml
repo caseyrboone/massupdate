@@ -12,15 +12,15 @@ defaults: &defaults
     #
     # TERMINUS_SITE:  Name of the Pantheon site to run tests on, e.g. my_site
     TERMINUS_TOKEN: YIShgNuyvKDppY0p8X6ipeFY5WcZclPc6VVTMASagOniu
-    GITHUB_TOKEN:   e08aa193b7dc77b1a1b9da3eb989a114f1940d9f
-    GIT_EMAIL: crboone@hotmail.com
+    GITHUB_TOKEN:   0d2e6c2fe55077cdd1d85c6473e9195bb60c6bd2
+    GIT_EMAIL: DevTeam@qiigo.com
     #
     # TEST_SITE_NAME: The name of the test site to provide when installing.
     # ADMIN_PASSWORD: The admin password to use when installing.
     # ADMIN_EMAIL:    The email address to give the admin when installing.
     #=========================================================================
     TZ: "/usr/share/zoneinfo/America/Los_Angeles"
-    CIRCLE_TOKEN: 20f281c330456efc2ebd4d641f4c22d6d173636a
+    CIRCLE_TOKEN: 99ff0abdb7e7b381684da4d2068cb02bb84bb7ec
     TERMINUS_MACHINE_TOKEN: 202HXWDd86gg_J6B_BmmH4L_qQEhQnVyLDuNllxZSFBvx
     SLACK_HOOK_URL: https://hooks.slack.com/services/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
     SLACK_CHANNEL: pantheon-mass-updates
@@ -39,7 +39,7 @@ defaults: &defaults
     
     TERM: dumb
 
-version: 2   
+version: 2
 jobs:
     build:
         <<: *defaults
@@ -159,18 +159,13 @@ jobs:
 
 workflows:
   version: 2
-    commit-workflow:
+  commit-workflow:
     jobs:
       - build
   update_and_test:
     triggers:
       - schedule:
-        # Minute [0,59]
-        # Hour [0,23]
-        # Day of the month [1,31]
-        # Month of the year [1,12]
-        # Day of the week ([0,6] with 0=Sunday)
-          cron: "0 0 * * 0"
+          cron: "5 4 * * 0"
           filters:
             branches:
               only:
