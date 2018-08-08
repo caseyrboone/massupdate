@@ -165,11 +165,6 @@ workflows:
   update_and_test:
     triggers:
       - schedule:
-        # Minute [0,59]
-        # Hour [0,23]
-        # Day of the month [1,31]
-        # Month of the year [1,12]
-        # Day of the week ([0,6] with 0=Sunday)
           cron: "0 0 * * 0"
           filters:
             branches:
