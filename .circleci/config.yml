@@ -10,7 +10,10 @@ defaults: &defaults
     #
     # See: https://circleci.com/docs/2.0/environment-variables/
     #
- 
+    # TERMINUS_SITE:  Name of the Pantheon site to run tests on, e.g. my_site
+    TERMINUS_TOKEN: YIShgNuyvKDppY0p8X6ipeFY5WcZclPc6VVTMASagOniu
+    GITHUB_TOKEN: e08aa193b7dc77b1a1b9da3eb989a114f1940d9f
+    GIT_EMAIL: crboone@hotmail.com
     #
     # TEST_SITE_NAME: The name of the test site to provide when installing.
     # ADMIN_PASSWORD: The admin password to use when installing.
@@ -18,7 +21,7 @@ defaults: &defaults
     #=========================================================================
     TZ: "/usr/share/zoneinfo/America/Los_Angeles"
     CIRCLE_TOKEN: 20f281c330456efc2ebd4d641f4c22d6d173636a
-    TERMINUS_MACHINE_TOKEN: 202HXWDd86gg_J6B_BmmH4L_qQEhQnVyLDuNllxZSFBvx
+    TERMINUS_MACHINE_TOKEN: uc9FUhXTLVjiiLiP_KOk7AR_WaSWAqLVy0RXQaeNIeLgR
     SLACK_HOOK_URL: https://hooks.slack.com/services/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
     SLACK_CHANNEL: pantheon-mass-updates
     SLACK_USERNAME: DevTeam
