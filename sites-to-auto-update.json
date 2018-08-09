@@ -5,40 +5,7 @@
 		"CREATE_BACKUPS": 1,
 		"RECREATE_MULTIDEV": 1,
 		"LIVE_URL": 0
-	},
-	{
-		"SITE_UUID": "d5b1df63-8152-4e23-86d7-eef4965919ae",
-		"SITE_NAME": "chemdrycom",
-		"CREATE_BACKUPS": 1,
-		"RECREATE_MULTIDEV": 1,
-		"LIVE_URL": 0
-	},
-	{
-		"SITE_UUID": "f02adb1c-96a8-4aa0-990c-a1bd189465e5",
-		"SITE_NAME": "mosquito",
-		"CREATE_BACKUPS": 1,
-		"RECREATE_MULTIDEV": 1,
-		"LIVE_URL": 0
-	},
-	{
-		"SITE_UUID": "0f72bc1f-3447-49cd-a79a-1a082c50ba1e",
-		"SITE_NAME": "rising-roll",
-		"CREATE_BACKUPS": 1,
-		"RECREATE_MULTIDEV": 1,
-		"LIVE_URL": 0
-	},
-	{
-		"SITE_UUID": "1c287b24-96a9-44a4-8794-ca297860ace9",
-		"SITE_NAME": "webinventory",
-		"CREATE_BACKUPS": 1,
-		"RECREATE_MULTIDEV": 1,
-		"LIVE_URL": 0
-	},
-	{
-		"SITE_UUID": "26ea87c4-3460-40fe-aa02-b23eb264d682",
-		"SITE_NAME": "underboot-dev",
-		"CREATE_BACKUPS": 1,
-		"RECREATE_MULTIDEV": 1,
-		"LIVE_URL": 0
 	}
 ]
+
+
