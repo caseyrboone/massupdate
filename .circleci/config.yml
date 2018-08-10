@@ -11,7 +11,7 @@ defaults: &defaults
     # See: https://circleci.com/docs/2.0/environment-variables/
     #
     # TERMINUS_SITE:  Name of the Pantheon site to run tests on, e.g. my_site
-    TERMINUS_TOKEN: YIShgNuyvKDppY0p8X6ipeFY5WcZclPc6VVTMASagOniu
+    TERMINUS_TOKEN: o_SxThkFf4LKUXYoXrvEdQi1eYkrjY7R1vR8i6NQ20YIA
     GITHUB_TOKEN:   0d2e6c2fe55077cdd1d85c6473e9195bb60c6bd2
     GIT_EMAIL: crboone@hotmail.com
     #
