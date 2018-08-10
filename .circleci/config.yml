@@ -4,7 +4,7 @@ defaults: &defaults
     - image: ataylorme/docker-php-advanced-wordpress-on-pantheon:latest
   working_directory: ~/pantheon-auto-updates
   environment:
-    #=========================================================================
+ #=========================================================================
     # In addition to the environment variables defined in this file, also
     # add the following variables in the Circle CI UI.
     #
