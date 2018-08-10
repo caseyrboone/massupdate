@@ -4,16 +4,16 @@ defaults: &defaults
     - image: ataylorme/docker-php-advanced-wordpress-on-pantheon:latest
   working_directory: ~/pantheon-auto-updates
   environment:
- #=========================================================================
+    #=========================================================================
     # In addition to the environment variables defined in this file, also
     # add the following variables in the Circle CI UI.
     #
     # See: https://circleci.com/docs/2.0/environment-variables/
     #
     # TERMINUS_SITE:  Name of the Pantheon site to run tests on, e.g. my_site
-    TERMINUS_TOKEN: o_SxThkFf4LKUXYoXrvEdQi1eYkrjY7R1vR8i6NQ20YIA
+    TERMINUS_TOKEN: YIShgNuyvKDppY0p8X6ipeFY5WcZclPc6VVTMASagOniu
     GITHUB_TOKEN:   0d2e6c2fe55077cdd1d85c6473e9195bb60c6bd2
-    GIT_EMAIL: crboone@hotmail.com
+    GIT_EMAIL: casey@qiigo.com
     #
     # TEST_SITE_NAME: The name of the test site to provide when installing.
     # ADMIN_PASSWORD: The admin password to use when installing.
