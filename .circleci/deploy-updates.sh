@@ -84,12 +84,3 @@ fi
 # Post the report back to Slack
 echo -e "\nSending a message to the ${SLACK_CHANNEL} Slack channel"
 curl -X POST --data "payload={\"channel\": \"${SLACK_CHANNEL}\",${SLACK_ATTACHEMENTS}, \"username\": \"${SLACK_USERNAME}\", \"text\": \"${SLACK_MESSAGE}\"}" $SLACK_HOOK_URL
-
-
-
-
-
-
-
-
- 
