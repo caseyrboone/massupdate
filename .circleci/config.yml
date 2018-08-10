@@ -26,7 +26,7 @@ defaults: &defaults
     SLACK_CHANNEL: pantheon-mass-updates
     SLACK_USERNAME: DevTeam
 
-    # The variables below usually do not need to be modified.
+      # The variables below usually do not need to be modified.
     
     #======================================================================================================================================
     # Circle CI 2.0 does not yet expand environment variables so they have to be manually EXPORTed
@@ -171,4 +171,4 @@ workflows:
               only:
                 - master
     jobs:
-- build
+      - build
